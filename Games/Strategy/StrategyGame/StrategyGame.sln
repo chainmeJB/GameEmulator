@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyGame", "StrategyGame\StrategyGame.csproj", "{C7C73F1E-B2DB-4144-BCA2-552A9DB43065}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GamesSaverLibrary", "..\..\CommonLibs\GamesSaver\GamesSaverLibrary\GamesSaverLibrary.csproj", "{CF1FC3E3-175B-428E-9340-79981FE3D875}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7C73F1E-B2DB-4144-BCA2-552A9DB43065}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7C73F1E-B2DB-4144-BCA2-552A9DB43065}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7C73F1E-B2DB-4144-BCA2-552A9DB43065}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7C73F1E-B2DB-4144-BCA2-552A9DB43065}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF1FC3E3-175B-428E-9340-79981FE3D875}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF1FC3E3-175B-428E-9340-79981FE3D875}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF1FC3E3-175B-428E-9340-79981FE3D875}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF1FC3E3-175B-428E-9340-79981FE3D875}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8F6659A-993F-4E2F-88D5-23AEABB94E63}
+	EndGlobalSection
+EndGlobal

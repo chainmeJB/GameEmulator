@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GameEmulator.ConsoleMenu">
+    <Position X="7.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAgFAAAAAAAAAAAAAAAIAAAAAAABAAg=</HashCode>
+      <FileName>ConsoleMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameEmulator.Game">
+    <Position X="9.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAkAAAAAAAAIEAAQiAAQgAAgAAAAAAABAABAAAAA=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameEmulator.OnlineCasinoGame">
+    <Position X="9.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OnlineCasinoGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameEmulator.Program">
+    <Position X="7.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameEmulator.SimulatorGame">
+    <Position X="11.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SimulatorGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameEmulator.StrategyGame">
+    <Position X="7.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>StrategyGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameEmulator.SystemSpecs">
+    <Position X="11.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AKAAACAAIIAAAAAAAQAAQAAAAAAAAAAAIMAoIAAAAIg=</HashCode>
+      <FileName>SystemSpecs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

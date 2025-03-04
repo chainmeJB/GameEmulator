@@ -1,0 +1,13 @@
+T:\Visual Studio\VS_projects\GameEmulator\Games\Strategy\StrategyGame\StrategyGame\bin\Debug\StrategyGame.exe.config
+T:\Visual Studio\VS_projects\GameEmulator\Games\Strategy\StrategyGame\StrategyGame\bin\Debug\StrategyGame.exe
+T:\Visual Studio\VS_projects\GameEmulator\Games\Strategy\StrategyGame\StrategyGame\bin\Debug\StrategyGame.pdb
+T:\Visual Studio\VS_projects\GameEmulator\Games\Strategy\StrategyGame\StrategyGame\obj\Debug\StrategyGame.csproj.AssemblyReference.cache
+T:\Visual Studio\VS_projects\GameEmulator\Games\Strategy\StrategyGame\StrategyGame\obj\Debug\StrategyGame.csproj.CoreCompileInputs.cache
+T:\Visual Studio\VS_projects\GameEmulator\Games\Strategy\StrategyGame\StrategyGame\obj\Debug\StrategyGame.exe
+T:\Visual Studio\VS_projects\GameEmulator\Games\Strategy\StrategyGame\StrategyGame\obj\Debug\StrategyGame.pdb
+T:\Visual Studio\VS_projects\GameEmulator\Games\Strategy\StrategyGame\StrategyGame\bin\Debug\GamesSaverLibrary.dll
+T:\Visual Studio\VS_projects\GameEmulator\Games\Strategy\StrategyGame\StrategyGame\bin\Debug\Newtonsoft.Json.dll
+T:\Visual Studio\VS_projects\GameEmulator\Games\Strategy\StrategyGame\StrategyGame\bin\Debug\GamesSaverLibrary.pdb
+T:\Visual Studio\VS_projects\GameEmulator\Games\Strategy\StrategyGame\StrategyGame\bin\Debug\GamesSaverLibrary.dll.config
+T:\Visual Studio\VS_projects\GameEmulator\Games\Strategy\StrategyGame\StrategyGame\bin\Debug\Newtonsoft.Json.xml
+T:\Visual Studio\VS_projects\GameEmulator\Games\Strategy\StrategyGame\StrategyGame\obj\Debug\Strategy.A8C56F1A.Up2Date
