@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "T:\\Visual Studio\\VS_projects\\GameEmulator\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DDC32F19-9FA5-4BA5-81D5-12402E98BFC4}|GameEmulator\\GameEmulator.csproj|T:\\Visual Studio\\VS_projects\\GameEmulator\\gameemulator\\consolemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDC32F19-9FA5-4BA5-81D5-12402E98BFC4}|GameEmulator\\GameEmulator.csproj|solutionrelative:gameemulator\\consolemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDC32F19-9FA5-4BA5-81D5-12402E98BFC4}|GameEmulator\\GameEmulator.csproj|T:\\Visual Studio\\VS_projects\\GameEmulator\\gameemulator\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDC32F19-9FA5-4BA5-81D5-12402E98BFC4}|GameEmulator\\GameEmulator.csproj|solutionrelative:gameemulator\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDC32F19-9FA5-4BA5-81D5-12402E98BFC4}|GameEmulator\\GameEmulator.csproj|T:\\Visual Studio\\VS_projects\\GameEmulator\\gameemulator\\simulatorgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDC32F19-9FA5-4BA5-81D5-12402E98BFC4}|GameEmulator\\GameEmulator.csproj|solutionrelative:gameemulator\\simulatorgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDC32F19-9FA5-4BA5-81D5-12402E98BFC4}|GameEmulator\\GameEmulator.csproj|t:\\visual studio\\vs_projects\\gameemulator\\gameemulator\\gamefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDC32F19-9FA5-4BA5-81D5-12402E98BFC4}|GameEmulator\\GameEmulator.csproj|solutionrelative:gameemulator\\gamefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDC32F19-9FA5-4BA5-81D5-12402E98BFC4}|GameEmulator\\GameEmulator.csproj|t:\\visual studio\\vs_projects\\gameemulator\\gameemulator\\gametype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDC32F19-9FA5-4BA5-81D5-12402E98BFC4}|GameEmulator\\GameEmulator.csproj|solutionrelative:gameemulator\\gametype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DDC32F19-9FA5-4BA5-81D5-12402E98BFC4}|GameEmulator\\GameEmulator.csproj|t:\\visual studio\\vs_projects\\gameemulator\\gameemulator\\systemspecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DDC32F19-9FA5-4BA5-81D5-12402E98BFC4}|GameEmulator\\GameEmulator.csproj|solutionrelative:gameemulator\\systemspecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,20 +31,8 @@
       "RelativeMoniker": "D:0:0:{DDC32F19-9FA5-4BA5-81D5-12402E98BFC4}|GameEmulator\\GameEmulator.csproj|solutionrelative:gameemulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DDC32F19-9FA5-4BA5-81D5-12402E98BFC4}|GameEmulator\\GameEmulator.csproj|T:\\Visual Studio\\VS_projects\\GameEmulator\\gameemulator\\simulatorgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDC32F19-9FA5-4BA5-81D5-12402E98BFC4}|GameEmulator\\GameEmulator.csproj|solutionrelative:gameemulator\\simulatorgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DDC32F19-9FA5-4BA5-81D5-12402E98BFC4}|GameEmulator\\GameEmulator.csproj|T:\\Visual Studio\\VS_projects\\GameEmulator\\gameemulator\\strategygame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DDC32F19-9FA5-4BA5-81D5-12402E98BFC4}|GameEmulator\\GameEmulator.csproj|solutionrelative:gameemulator\\strategygame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DDC32F19-9FA5-4BA5-81D5-12402E98BFC4}|GameEmulator\\GameEmulator.csproj|T:\\Visual Studio\\VS_projects\\GameEmulator\\gameemulator\\consolemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDC32F19-9FA5-4BA5-81D5-12402E98BFC4}|GameEmulator\\GameEmulator.csproj|solutionrelative:gameemulator\\consolemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DDC32F19-9FA5-4BA5-81D5-12402E98BFC4}|GameEmulator\\GameEmulator.csproj|T:\\Visual Studio\\VS_projects\\GameEmulator\\gameemulator\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDC32F19-9FA5-4BA5-81D5-12402E98BFC4}|GameEmulator\\GameEmulator.csproj|solutionrelative:gameemulator\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DDC32F19-9FA5-4BA5-81D5-12402E98BFC4}|GameEmulator\\GameEmulator.csproj|T:\\Visual Studio\\VS_projects\\GameEmulator\\gameemulator\\onlinecasinogame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 158,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,18 +86,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "gameState.json",
-              "DocumentMoniker": "T:\\Visual Studio\\VS_projects\\GameEmulator\\GameEmulator\\bin\\Debug\\gameState.json",
-              "RelativeDocumentMoniker": "GameEmulator\\bin\\Debug\\gameState.json",
-              "ToolTip": "T:\\Visual Studio\\VS_projects\\GameEmulator\\GameEmulator\\bin\\Debug\\gameState.json",
-              "RelativeToolTip": "GameEmulator\\bin\\Debug\\gameState.json",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-23T18:21:03.283Z"
+              "DocumentIndex": 4,
+              "Title": "GameType.cs",
+              "DocumentMoniker": "T:\\Visual Studio\\VS_projects\\GameEmulator\\GameEmulator\\GameType.cs",
+              "RelativeDocumentMoniker": "GameEmulator\\GameType.cs",
+              "ToolTip": "T:\\Visual Studio\\VS_projects\\GameEmulator\\GameEmulator\\GameType.cs",
+              "RelativeToolTip": "GameEmulator\\GameType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T09:54:36.524Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 3,
+              "Title": "GameFactory.cs",
+              "DocumentMoniker": "T:\\Visual Studio\\VS_projects\\GameEmulator\\GameEmulator\\GameFactory.cs",
+              "RelativeDocumentMoniker": "GameEmulator\\GameFactory.cs",
+              "ToolTip": "T:\\Visual Studio\\VS_projects\\GameEmulator\\GameEmulator\\GameFactory.cs",
+              "RelativeToolTip": "GameEmulator\\GameFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T09:53:24.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "rouletteGameSave.json",
               "DocumentMoniker": "T:\\Visual Studio\\VS_projects\\GameEmulator\\GameEmulator\\bin\\Debug\\rouletteGameSave.json",
               "RelativeDocumentMoniker": "GameEmulator\\bin\\Debug\\rouletteGameSave.json",
@@ -101,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "strategyGameSave.json",
               "DocumentMoniker": "T:\\Visual Studio\\VS_projects\\GameEmulator\\GameEmulator\\bin\\Debug\\strategyGameSave.json",
               "RelativeDocumentMoniker": "GameEmulator\\bin\\Debug\\strategyGameSave.json",
@@ -113,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "drivingSimSave.json",
               "DocumentMoniker": "T:\\Visual Studio\\VS_projects\\GameEmulator\\GameEmulator\\bin\\Debug\\drivingSimSave.json",
               "RelativeDocumentMoniker": "GameEmulator\\bin\\Debug\\drivingSimSave.json",
@@ -125,20 +148,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "SystemSpecs.cs",
               "DocumentMoniker": "T:\\Visual Studio\\VS_projects\\GameEmulator\\GameEmulator\\SystemSpecs.cs",
               "RelativeDocumentMoniker": "GameEmulator\\SystemSpecs.cs",
               "ToolTip": "T:\\Visual Studio\\VS_projects\\GameEmulator\\GameEmulator\\SystemSpecs.cs",
               "RelativeToolTip": "GameEmulator\\SystemSpecs.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAcwB0AAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-15T15:51:07.857Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "ClassDiagram1.cd",
               "DocumentMoniker": "T:\\Visual Studio\\VS_projects\\GameEmulator\\GameEmulator\\ClassDiagram1.cd",
               "RelativeDocumentMoniker": "GameEmulator\\ClassDiagram1.cd",
@@ -149,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "T:\\Visual Studio\\VS_projects\\GameEmulator\\GameEmulator\\Program.cs",
               "RelativeDocumentMoniker": "GameEmulator\\Program.cs",
@@ -161,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "StrategyGame.cs",
               "DocumentMoniker": "T:\\Visual Studio\\VS_projects\\GameEmulator\\GameEmulator\\StrategyGame.cs",
               "RelativeDocumentMoniker": "GameEmulator\\StrategyGame.cs",
@@ -173,19 +196,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Game.cs",
               "DocumentMoniker": "T:\\Visual Studio\\VS_projects\\GameEmulator\\GameEmulator\\Game.cs",
               "RelativeDocumentMoniker": "GameEmulator\\Game.cs",
               "ToolTip": "T:\\Visual Studio\\VS_projects\\GameEmulator\\GameEmulator\\Game.cs",
               "RelativeToolTip": "GameEmulator\\Game.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAxwC4AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T14:12:55.285Z"
+              "WhenOpened": "2025-02-15T14:12:55.285Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "OnlineCasinoGame.cs",
               "DocumentMoniker": "T:\\Visual Studio\\VS_projects\\GameEmulator\\GameEmulator\\OnlineCasinoGame.cs",
               "RelativeDocumentMoniker": "GameEmulator\\OnlineCasinoGame.cs",
@@ -197,15 +221,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "ConsoleMenu.cs",
               "DocumentMoniker": "T:\\Visual Studio\\VS_projects\\GameEmulator\\GameEmulator\\ConsoleMenu.cs",
               "RelativeDocumentMoniker": "GameEmulator\\ConsoleMenu.cs",
-              "ToolTip": "T:\\Visual Studio\\VS_projects\\GameEmulator\\GameEmulator\\ConsoleMenu.cs",
-              "RelativeToolTip": "GameEmulator\\ConsoleMenu.cs",
-              "ViewState": "AgIAAH0AAAAAAAAAAAAzwKAAAAAFAAAAAAAAAA==",
+              "ToolTip": "T:\\Visual Studio\\VS_projects\\GameEmulator\\GameEmulator\\ConsoleMenu.cs*",
+              "RelativeToolTip": "GameEmulator\\ConsoleMenu.cs*",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAmwBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T20:29:54.775Z"
+              "WhenOpened": "2025-02-15T20:29:54.775Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -217,11 +242,23 @@
               "RelativeToolTip": "GameEmulator\\SimulatorGame.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T14:45:01.007Z"
+              "WhenOpened": "2025-02-16T14:45:01.007Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
+              "Title": "gameState.json",
+              "DocumentMoniker": "T:\\Visual Studio\\VS_projects\\GameEmulator\\GameEmulator\\bin\\Debug\\gameState.json",
+              "RelativeDocumentMoniker": "GameEmulator\\bin\\Debug\\gameState.json",
+              "ToolTip": "T:\\Visual Studio\\VS_projects\\GameEmulator\\GameEmulator\\bin\\Debug\\gameState.json",
+              "RelativeToolTip": "GameEmulator\\bin\\Debug\\gameState.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-23T18:21:03.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "packages.config",
               "DocumentMoniker": "T:\\Visual Studio\\VS_projects\\GameEmulator\\GameEmulator\\packages.config",
               "RelativeDocumentMoniker": "GameEmulator\\packages.config",
@@ -233,7 +270,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "App.config",
               "DocumentMoniker": "T:\\Visual Studio\\VS_projects\\GameEmulator\\GameEmulator\\App.config",
               "RelativeDocumentMoniker": "GameEmulator\\App.config",

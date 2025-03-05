@@ -10,16 +10,13 @@ namespace GameEmulator
     public class ConsoleMenu
     {
         private readonly SystemSpecs specs;
-        private readonly StrategyGame strategyGame;
-        private readonly SimulatorGame simulatorGame;
-        private readonly OnlineCasinoGame onlineCasino;
+        readonly Game strategyGame = GameFactory.CreateGame(GameType.Strategy, "Битва королівств", "Intel core i3", 8, "AMD Radeon RX 580", 3);
+        readonly Game simulatorGame = GameFactory.CreateGame(GameType.Simulator, "Симулятор водія", "AMD Ryzen 3", 16, "NVIDIA GeForce RTX 3060", 7);
+        readonly Game onlineCasino = GameFactory.CreateGame(GameType.OnlineCasino, "Рулетка");
 
         public ConsoleMenu()
         {
             specs = SystemSpecs.GetCurrentSystemSpecs();
-            strategyGame = new StrategyGame("Битва королівств", "Intel core i3", 8, "AMD Radeon RX 580", 3);
-            simulatorGame = new SimulatorGame("Симулятор водія", "AMD Ryzen 3", 16, "NVIDIA GeForce RTX 3060", 7);
-            onlineCasino = new OnlineCasinoGame("Рулетка");
         }
 
         public void ShowMenu()
