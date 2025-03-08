@@ -7,7 +7,11 @@
       "RelativeMoniker": "D:0:0:{596AA857-D2B2-41C5-B39E-A0C4CAC8C5A5}|SimulatorGame\\SimulatorGame.csproj|solutionrelative:simulatorgame\\gamerenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{596AA857-D2B2-41C5-B39E-A0C4CAC8C5A5}|SimulatorGame\\SimulatorGame.csproj|T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\SimulatorGame\\simulatorgame\\consolemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+      "AbsoluteMoniker": "D:0:0:{596AA857-D2B2-41C5-B39E-A0C4CAC8C5A5}|SimulatorGame\\SimulatorGame.csproj|t:\\visual studio\\vs_projects\\gameemulator\\games\\simulatorgame\\simulatorgame\\consolemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> 17c7bc8 (added Game Facade)
       "RelativeMoniker": "D:0:0:{596AA857-D2B2-41C5-B39E-A0C4CAC8C5A5}|SimulatorGame\\SimulatorGame.csproj|solutionrelative:simulatorgame\\consolemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -35,8 +39,13 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SimulatorGame\\bin\\Debug\\drivingSimSave.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{24F4F519-BB45-435E-9451-41DF2E0F531E}|Libraries\\DrivingSimulatorLibrary\\DrivingSimulatorLibrary.csproj|T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\SimulatorGame\\libraries\\drivingsimulatorlibrary\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{24F4F519-BB45-435E-9451-41DF2E0F531E}|Libraries\\DrivingSimulatorLibrary\\DrivingSimulatorLibrary.csproj|solutionrelative:libraries\\drivingsimulatorlibrary\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+=======
+      "AbsoluteMoniker": "D:0:0:{596AA857-D2B2-41C5-B39E-A0C4CAC8C5A5}|SimulatorGame\\SimulatorGame.csproj|T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\SimulatorGame\\simulatorgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{596AA857-D2B2-41C5-B39E-A0C4CAC8C5A5}|SimulatorGame\\SimulatorGame.csproj|solutionrelative:simulatorgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> 17c7bc8 (added Game Facade)
     },
     {
       "AbsoluteMoniker": "D:0:0:{596AA857-D2B2-41C5-B39E-A0C4CAC8C5A5}|SimulatorGame\\SimulatorGame.csproj|T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\SimulatorGame\\simulatorgame\\steeringwheel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -68,7 +77,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 158,
+<<<<<<< HEAD
           "SelectedChildIndex": 13,
+=======
+          "SelectedChildIndex": 8,
+>>>>>>> 17c7bc8 (added Game Facade)
           "Children": [
             {
               "$type": "Bookmark",
@@ -80,6 +93,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 7,
               "Title": "drivingSimSave.json",
               "DocumentMoniker": "T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\SimulatorGame\\SimulatorGame\\bin\\Debug\\drivingSimSave.json",
@@ -132,13 +146,19 @@
             },
             {
               "$type": "Document",
+=======
+>>>>>>> 17c7bc8 (added Game Facade)
               "DocumentIndex": 1,
               "Title": "ConsoleMenu.cs",
               "DocumentMoniker": "T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\SimulatorGame\\SimulatorGame\\ConsoleMenu.cs",
               "RelativeDocumentMoniker": "SimulatorGame\\ConsoleMenu.cs",
               "ToolTip": "T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\SimulatorGame\\SimulatorGame\\ConsoleMenu.cs",
               "RelativeToolTip": "SimulatorGame\\ConsoleMenu.cs",
+<<<<<<< HEAD
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAADQAAAAAAAAAAAAIwF0AAAApAAAAAAAAAA==",
+>>>>>>> 17c7bc8 (added Game Facade)
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T17:34:29.139Z",
               "EditorCaption": ""
@@ -146,6 +166,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 8,
+<<<<<<< HEAD
               "Title": "packages.config",
               "DocumentMoniker": "T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\SimulatorGame\\Libraries\\DrivingSimulatorLibrary\\packages.config",
               "RelativeDocumentMoniker": "Libraries\\DrivingSimulatorLibrary\\packages.config",
@@ -158,6 +179,8 @@
             {
               "$type": "Document",
               "DocumentIndex": 11,
+=======
+>>>>>>> 17c7bc8 (added Game Facade)
               "Title": "Program.cs",
               "DocumentMoniker": "T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\SimulatorGame\\SimulatorGame\\Program.cs",
               "RelativeDocumentMoniker": "SimulatorGame\\Program.cs",
@@ -180,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "GameState.cs",
               "DocumentMoniker": "T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\SimulatorGame\\Libraries\\DrivingSimulatorLibrary\\GameState.cs",
               "RelativeDocumentMoniker": "Libraries\\DrivingSimulatorLibrary\\GameState.cs",
@@ -188,8 +211,7 @@
               "RelativeToolTip": "Libraries\\DrivingSimulatorLibrary\\GameState.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T21:55:09.324Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T21:55:09.324Z"
             },
             {
               "$type": "Document",
@@ -217,16 +239,50 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
+=======
+              "DocumentIndex": 3,
+              "Title": "Game.cs",
+              "DocumentMoniker": "T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\SimulatorGame\\Libraries\\DrivingSimulatorLibrary\\Game.cs",
+              "RelativeDocumentMoniker": "Libraries\\DrivingSimulatorLibrary\\Game.cs",
+              "ToolTip": "T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\SimulatorGame\\Libraries\\DrivingSimulatorLibrary\\Game.cs",
+              "RelativeToolTip": "Libraries\\DrivingSimulatorLibrary\\Game.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwBoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T21:52:27.361Z"
+            },
+            {
+              "$type": "Document",
+>>>>>>> 17c7bc8 (added Game Facade)
               "DocumentIndex": 0,
               "Title": "GameRenderer.cs",
               "DocumentMoniker": "T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\SimulatorGame\\SimulatorGame\\GameRenderer.cs",
               "RelativeDocumentMoniker": "SimulatorGame\\GameRenderer.cs",
               "ToolTip": "T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\SimulatorGame\\SimulatorGame\\GameRenderer.cs",
               "RelativeToolTip": "SimulatorGame\\GameRenderer.cs",
+<<<<<<< HEAD
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T21:50:00.607Z",
               "EditorCaption": ""
+=======
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwBYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T21:50:00.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Car.cs",
+              "DocumentMoniker": "T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\SimulatorGame\\Libraries\\DrivingSimulatorLibrary\\Car.cs",
+              "RelativeDocumentMoniker": "Libraries\\DrivingSimulatorLibrary\\Car.cs",
+              "ToolTip": "T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\SimulatorGame\\Libraries\\DrivingSimulatorLibrary\\Car.cs",
+              "RelativeToolTip": "Libraries\\DrivingSimulatorLibrary\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T15:21:26.83Z"
+>>>>>>> 17c7bc8 (added Game Facade)
             },
             {
               "$type": "Document",
@@ -238,12 +294,27 @@
               "RelativeToolTip": "Libraries\\DrivingSimulatorLibrary\\Obstacle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T15:31:51.157Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T15:31:51.157Z"
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 13,
+=======
+              "DocumentIndex": 5,
+              "Title": "ObstacleManager.cs",
+              "DocumentMoniker": "T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\SimulatorGame\\Libraries\\DrivingSimulatorLibrary\\ObstacleManager.cs",
+              "RelativeDocumentMoniker": "Libraries\\DrivingSimulatorLibrary\\ObstacleManager.cs",
+              "ToolTip": "T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\SimulatorGame\\Libraries\\DrivingSimulatorLibrary\\ObstacleManager.cs",
+              "RelativeToolTip": "Libraries\\DrivingSimulatorLibrary\\ObstacleManager.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T15:58:00.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+>>>>>>> 17c7bc8 (added Game Facade)
               "Title": "app.config",
               "DocumentMoniker": "T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\CommonLibs\\GamesSaver\\GamesSaverLibrary\\app.config",
               "RelativeDocumentMoniker": "..\\CommonLibs\\GamesSaver\\GamesSaverLibrary\\app.config",
@@ -255,7 +326,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 10,
+=======
+              "DocumentIndex": 2,
+>>>>>>> 17c7bc8 (added Game Facade)
               "Title": "GameSaver.cs",
               "DocumentMoniker": "T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\CommonLibs\\GamesSaver\\GamesSaverLibrary\\GameSaver.cs",
               "RelativeDocumentMoniker": "..\\CommonLibs\\GamesSaver\\GamesSaverLibrary\\GameSaver.cs",
@@ -264,6 +339,13 @@
               "ViewState": "AgIAABMAAAAAAAAAAAAwwBwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T21:46:41.125Z"
+<<<<<<< HEAD
+=======
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+>>>>>>> 17c7bc8 (added Game Facade)
             }
           ]
         }

@@ -45,7 +45,6 @@
     <Compile Include="GameState.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RouletteGame.cs" />
-    <Compile Include="RouletteUI.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
