@@ -6,13 +6,9 @@ namespace RouletteGameLibrary
     {
         private readonly Random random = new Random();
         public int Chips { get; private set; }
+        private readonly int[] redNumbers = { 1, 3, 5, 7, 9, 12, 14, 16, 18, 19, 21, 23, 25, 27, 30, 32, 34, 36 };
 
         public void SetChips(int value) => Chips = value;
-
-        public RouletteGame() 
-        {
-            Chips = 200;
-        }
 
         public void SpinRouletteWheel(BetInfo betInfo)
         {
@@ -71,15 +67,14 @@ namespace RouletteGameLibrary
             }
         }
 
-        private static bool IsSameColor(int num1, int num2)
+        private bool IsSameColor(int num1, int num2)
         {
-            int[] redNumbers = { 1, 3, 5, 7, 9, 12, 14, 16, 18, 19, 21, 23, 25, 27, 30, 32, 34, 36 };
             bool isRed1 = Array.Exists(redNumbers, n => n == num1);
             bool isRed2 = Array.Exists(redNumbers, n => n == num2);
             return isRed1 == isRed2;
         }
 
-        private static bool IsSameThird(int rolled, int chosen)
+        private bool IsSameThird(int rolled, int chosen)
         {
             return (rolled - 1) / 12 == (chosen - 1) / 12;
         }

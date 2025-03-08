@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace RouletteGameLibrary
+namespace OnlineCasino
 {
     public static class RouletteUI
     {

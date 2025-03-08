@@ -1,48 +1,33 @@
 ﻿using System;
-using System.IO;
-using GamesSaverLibrary;
-using RouletteGameLibrary;
 
 namespace OnlineCasino
 {
     public class ConsoleMenu
     {
-        readonly RouletteGame rouletteGame = new RouletteGame();
-        readonly GameSaver<GameState> gameSaver = new GameSaver<GameState>();
-
-        private static string filePath = "rouletteGameSave.json";
+        private static readonly GameFacade gameFacade = new GameFacade();
+        private readonly FileManager fileManager = new FileManager(gameFacade);
 
         public void DisplayMenu()
         {
             Console.WriteLine("---Головне меню---\n" +
-                "1. Продовжити\n" +
-                "2. Нова гра");
+                              "1. Продовжити\n" +
+                              "2. Нова гра");
 
             string choice = Console.ReadLine();
-
             Console.Clear();
+
             switch (choice)
             {
                 case "1":
-                    GameState loadedStates = gameSaver.LoadGame(filePath);
-                    if (loadedStates != default)
-                    {
-                        rouletteGame.SetChips(loadedStates.Chips);
-                        Console.WriteLine($"Завантажено збережену гру. Ваші фішки: {rouletteGame.Chips}.");
-                    }
-                    else
-                    {
-                        Console.WriteLine("Немає даних для завантаження.");
-                        DisplayMenu();
-                    }
+                    fileManager.LoadGame();
                     PlayGame();
                     break;
                 case "2":
-                    rouletteGame.SetChips(200);
+                    gameFacade.StartNewGame();
                     PlayGame();
                     break;
                 default:
-                    Console.WriteLine("Некоректный ввод.");
+                    Console.WriteLine("Некоректний ввод.");
                     DisplayMenu();
                     break;
             }
@@ -51,24 +36,21 @@ namespace OnlineCasino
         public void PlayGame()
         {
             bool isRunning = true;
-
-            RouletteUI.DisplayRoulette(rouletteGame.Chips);
+            RouletteUI.DisplayRoulette(gameFacade.GetChips());
 
             while (isRunning)
             {
-                BetInfo betInfo = new BetInfo();
-
                 Console.WriteLine("Введіть суму ставки: ");
                 if (!int.TryParse(Console.ReadLine(), out int amount) || amount <= 0)
                 {
-                    Console.WriteLine("Некоректный ввод. Введіть додатне число.");
+                    Console.WriteLine("Некоректний ввод. Введіть додатне число.");
                     continue;
                 }
-                betInfo.SetBetAmount(amount);
+                gameFacade.SetBetInfo(amount, BetField.BetAmount);
 
-                if (!rouletteGame.PlaceBet(betInfo))
+                if (!gameFacade.PlaceBet())
                 {
-                    Console.WriteLine($"Недостатньо фішок. Ваші фішки: {rouletteGame.Chips}");
+                    Console.WriteLine($"Недостатньо фішок. Ваші фішки: {gameFacade.GetChips()}");
                     continue;
                 }
 
@@ -89,8 +71,8 @@ namespace OnlineCasino
                             continue;
                         }
 
-                        betInfo.SetBetCategory(1);
-                        betInfo.SetChosenNumber(chosenNumber);
+                        gameFacade.SetBetInfo(1, BetField.BetCategory);
+                        gameFacade.SetBetInfo(chosenNumber, BetField.ChosenNumber);
                         break;
 
                     case "2":
@@ -104,8 +86,8 @@ namespace OnlineCasino
                             continue;
                         }
 
-                        betInfo.SetBetCategory(2);
-                        betInfo.SetChosenNumber(color);
+                        gameFacade.SetBetInfo(2, BetField.BetCategory);
+                        gameFacade.SetBetInfo(color, BetField.ChosenNumber);
                         break;
 
                     case "3":
@@ -120,31 +102,32 @@ namespace OnlineCasino
                             continue;
                         }
 
-                        betInfo.SetBetCategory(3);
-                        betInfo.SetChosenNumber(group);
+                        gameFacade.SetBetInfo(3, BetField.BetCategory);
+                        gameFacade.SetBetInfo(group, BetField.ChosenNumber);
                         break;
+
                     default:
                         Console.WriteLine("Некоректний ввод.");
                         break;
                 }
 
-                rouletteGame.SpinRouletteWheel(betInfo);
+                gameFacade.SpinRouletteWheel();
 
-                if (rouletteGame.Won(betInfo))
+                if (gameFacade.CheckWin())
                 {
-                    Console.WriteLine($"Вітаємо! Випало число: {betInfo.RolledNumber}");
-                    rouletteGame.EvaluateBet(betInfo);
+                    Console.WriteLine($"Вітаємо! Випало число: {gameFacade.GetBetInfo(BetField.RolledNumber)}");
+                    gameFacade.EvaluateBet();
                 }
                 else
                 {
-                    Console.WriteLine($"Ви програли. Випало число: {betInfo.RolledNumber}");
+                    Console.WriteLine($"Ви програли. Випало число: {gameFacade.GetBetInfo(BetField.RolledNumber)}");
                 }
 
-                Console.WriteLine($"Ваші фішки: {rouletteGame.Chips}");
+                Console.WriteLine($"Ваші фішки: {gameFacade.GetChips()}");
 
-                if (rouletteGame.Chips > 0)
+                if (gameFacade.GetChips() > 0)
                 {
-                    SaveGame();
+                    fileManager.SaveGame();
 
                     Console.WriteLine("1. Ставити ще раз\n" +
                         "2. Вийти в меню");
@@ -157,10 +140,10 @@ namespace OnlineCasino
                     }
                 }
 
-                if (rouletteGame.Chips <= 0)
+                if (gameFacade.GetChips() <= 0)
                 {
                     Console.WriteLine("Ваші фішки закінчилися. Ви програли.");
-                    File.Delete(filePath);
+                    fileManager.DeleteSave();
 
                     Console.WriteLine();
                     Console.WriteLine("Натисніть клавішу, щоб повернутися в головне меню...");
@@ -170,12 +153,6 @@ namespace OnlineCasino
             }
             Console.Clear();
             DisplayMenu();
-        }
-
-        public void SaveGame()
-        {
-            GameState gameState = new GameState(rouletteGame.Chips);
-            gameSaver.SaveGame(gameState, filePath);
         }
     }
 }
