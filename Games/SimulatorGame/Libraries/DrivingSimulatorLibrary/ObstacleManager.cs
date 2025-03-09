@@ -5,10 +5,10 @@ namespace DrivingSimulatorLibrary
 {
     public class ObstacleManager
     {
-        private List<Obstacle> obstacles = new List<Obstacle>();
+        private readonly List<Obstacle> obstacles = new List<Obstacle>();
         private readonly int roadWidth;
         private readonly int roadHeight;
-        private Random random = new Random();
+        private readonly Random random = new Random();
 
         public ObstacleManager(int roadWidth, int roadHeight)
         {
@@ -35,7 +35,11 @@ namespace DrivingSimulatorLibrary
 
         public bool CheckCollision(Car car)
         {
-            return obstacles.Exists(o => o.Y == roadHeight - 1 && Math.Abs(o.X - car.X) < 2);
+            if (obstacles.Exists(o => o.Y == roadHeight - 1 && Math.Abs(o.X - car.X) < 2))
+            {
+                return true;
+            }
+            return false;
         }
 
         public List<Obstacle> GetObstacles()

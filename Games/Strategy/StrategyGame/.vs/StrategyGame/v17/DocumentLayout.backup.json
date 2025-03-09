@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\Strategy\\StrategyGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C7C73F1E-B2DB-4144-BCA2-552A9DB43065}|StrategyGame\\StrategyGame.csproj|T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\Strategy\\StrategyGame\\strategygame\\consolemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C7C73F1E-B2DB-4144-BCA2-552A9DB43065}|StrategyGame\\StrategyGame.csproj|T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\Strategy\\StrategyGame\\strategygame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C73F1E-B2DB-4144-BCA2-552A9DB43065}|StrategyGame\\StrategyGame.csproj|solutionrelative:strategygame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C73F1E-B2DB-4144-BCA2-552A9DB43065}|StrategyGame\\StrategyGame.csproj|t:\\visual studio\\vs_projects\\gameemulator\\games\\strategy\\strategygame\\strategygame\\consolemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7C73F1E-B2DB-4144-BCA2-552A9DB43065}|StrategyGame\\StrategyGame.csproj|solutionrelative:strategygame\\consolemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -14,10 +18,6 @@
       "AbsoluteMoniker": "D:0:0:{CF1FC3E3-175B-428E-9340-79981FE3D875}|..\\..\\CommonLibs\\GamesSaver\\GamesSaverLibrary\\GamesSaverLibrary.csproj|t:\\visual studio\\vs_projects\\gameemulator\\games\\commonlibs\\gamessaver\\gamessaverlibrary\\gamesaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7C73F1E-B2DB-4144-BCA2-552A9DB43065}|StrategyGame\\StrategyGame.csproj|t:\\visual studio\\vs_projects\\gameemulator\\games\\strategy\\strategygame\\strategygame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7C73F1E-B2DB-4144-BCA2-552A9DB43065}|StrategyGame\\StrategyGame.csproj|solutionrelative:strategygame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C7C73F1E-B2DB-4144-BCA2-552A9DB43065}|StrategyGame\\StrategyGame.csproj|T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\Strategy\\StrategyGame\\strategygame\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7C73F1E-B2DB-4144-BCA2-552A9DB43065}|StrategyGame\\StrategyGame.csproj|solutionrelative:strategygame\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,7 +26,7 @@
       "RelativeMoniker": "D:0:0:{C7C73F1E-B2DB-4144-BCA2-552A9DB43065}|StrategyGame\\StrategyGame.csproj|solutionrelative:strategygame\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7C73F1E-B2DB-4144-BCA2-552A9DB43065}|StrategyGame\\StrategyGame.csproj|T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\Strategy\\StrategyGame\\strategygame\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "AbsoluteMoniker": "D:0:0:{C7C73F1E-B2DB-4144-BCA2-552A9DB43065}|StrategyGame\\StrategyGame.csproj|t:\\visual studio\\vs_projects\\gameemulator\\games\\strategy\\strategygame\\strategygame\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
       "RelativeMoniker": "D:0:0:{C7C73F1E-B2DB-4144-BCA2-552A9DB43065}|StrategyGame\\StrategyGame.csproj|solutionrelative:strategygame\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
     },
     {
@@ -41,11 +41,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 158,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\Strategy\\StrategyGame\\StrategyGame\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "StrategyGame\\ClassDiagram1.cd",
+              "ToolTip": "T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\Strategy\\StrategyGame\\StrategyGame\\ClassDiagram1.cd",
+              "RelativeToolTip": "StrategyGame\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-02-23T20:03:39.384Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -57,43 +69,20 @@
               "RelativeToolTip": "StrategyGame\\bin\\Debug\\strategyGameSave.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-23T01:21:11.881Z"
+              "WhenOpened": "2025-02-23T01:21:11.881Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ClassDiagram1.cd",
-              "DocumentMoniker": "T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\Strategy\\StrategyGame\\StrategyGame\\ClassDiagram1.cd",
-              "RelativeDocumentMoniker": "StrategyGame\\ClassDiagram1.cd",
-              "ToolTip": "T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\Strategy\\StrategyGame\\StrategyGame\\ClassDiagram1.cd",
-              "RelativeToolTip": "StrategyGame\\ClassDiagram1.cd",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
-              "WhenOpened": "2025-02-23T20:03:39.384Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ConsoleMenu.cs",
               "DocumentMoniker": "T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\Strategy\\StrategyGame\\StrategyGame\\ConsoleMenu.cs",
               "RelativeDocumentMoniker": "StrategyGame\\ConsoleMenu.cs",
               "ToolTip": "T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\Strategy\\StrategyGame\\StrategyGame\\ConsoleMenu.cs",
               "RelativeToolTip": "StrategyGame\\ConsoleMenu.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAgwAsAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAIwHcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-23T00:57:52.406Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\Strategy\\StrategyGame\\StrategyGame\\Program.cs",
-              "RelativeDocumentMoniker": "StrategyGame\\Program.cs",
-              "ToolTip": "T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\Strategy\\StrategyGame\\StrategyGame\\Program.cs",
-              "RelativeToolTip": "StrategyGame\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T00:32:59.238Z",
               "EditorCaption": ""
             },
             {
@@ -102,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Game.cs",
               "DocumentMoniker": "T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\Strategy\\StrategyGame\\StrategyGame\\Game.cs",
               "RelativeDocumentMoniker": "StrategyGame\\Game.cs",
@@ -115,13 +104,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "GameSaver.cs",
               "DocumentMoniker": "T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\CommonLibs\\GamesSaver\\GamesSaverLibrary\\GameSaver.cs",
               "RelativeDocumentMoniker": "..\\..\\CommonLibs\\GamesSaver\\GamesSaverLibrary\\GameSaver.cs",
               "ToolTip": "T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\CommonLibs\\GamesSaver\\GamesSaverLibrary\\GameSaver.cs",
               "RelativeToolTip": "..\\..\\CommonLibs\\GamesSaver\\GamesSaverLibrary\\GameSaver.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwDIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-23T01:05:31.061Z",
               "EditorCaption": ""
@@ -136,7 +125,8 @@
               "RelativeToolTip": "StrategyGame\\GameState.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T00:59:42.458Z"
+              "WhenOpened": "2025-02-23T00:59:42.458Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -148,7 +138,21 @@
               "RelativeToolTip": "StrategyGame\\Entity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T00:33:29.738Z"
+              "WhenOpened": "2025-02-23T00:33:29.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\Strategy\\StrategyGame\\StrategyGame\\Program.cs",
+              "RelativeDocumentMoniker": "StrategyGame\\Program.cs",
+              "ToolTip": "T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\Strategy\\StrategyGame\\StrategyGame\\Program.cs",
+              "RelativeToolTip": "StrategyGame\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T00:32:59.238Z",
+              "EditorCaption": ""
             }
           ]
         }

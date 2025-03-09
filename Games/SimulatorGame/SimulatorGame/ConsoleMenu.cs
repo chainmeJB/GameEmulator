@@ -18,7 +18,7 @@ namespace SimulatorGame
         public ConsoleMenu()
         {
             game = new Game();
-            renderer = new GameRenderer();
+            renderer = new GameRenderer(game);
             wheel = new SteeringWheel(game);
             gameSaver = new GameSaver<GameState>();
         }
@@ -41,6 +41,9 @@ namespace SimulatorGame
                     {
                         game.SetScore(loadedStates.Score);
                         game.SetSpeed(loadedStates.Speed);
+                        game.car.Health = loadedStates.Health;
+
+                        game.Subscribe();
                     }
                     else
                     {
@@ -50,8 +53,7 @@ namespace SimulatorGame
                     PlayGame();
                     break;
                 case "2":
-                    game.SetScore(0);
-                    game.SetSpeed(150);
+                    game.NewGame();
                     PlayGame();
                     break;
                 default:
@@ -63,28 +65,23 @@ namespace SimulatorGame
 
         public void PlayGame()
         {
-            bool isRunning = true;
-
-            while (isRunning)
+            while (!game.isGameOver)
             {
                 Console.Clear();
-                renderer.DrawRoad(60);
-                renderer.DrawObstacles(game.Obstacles);
-                renderer.DrawCar(game.CarPosition);
-                renderer.DrawInfo(game.Score, game.Speed);
+
+                renderer.DrawMap();
 
                 if (Console.KeyAvailable)
                 {
                     var key = Console.ReadKey(true).Key;
                     wheel.ProcessInput(key);
 
-                    if (key == ConsoleKey.Q) isRunning = false;
+                    if (key == ConsoleKey.Q) break;
                 }
 
                 game.Update();
-                if (game.Crash())
+                if (game.isGameOver)
                 {
-                    isRunning = false;
                     Console.Clear();
                     Console.WriteLine($"Ви програли. Рахунок: {game.Score}");
                     File.Delete(filePath);
@@ -102,7 +99,7 @@ namespace SimulatorGame
 
         public void SaveGame()
         {
-            GameState gameState = new GameState(game.Score, game.Speed);
+            GameState gameState = new GameState(game.Score, game.Speed, game.car.Health);
             gameSaver.SaveGame(gameState, filePath);
         }
     }

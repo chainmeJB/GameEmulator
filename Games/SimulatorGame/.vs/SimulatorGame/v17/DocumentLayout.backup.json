@@ -7,7 +7,12 @@
       "RelativeMoniker": "D:0:0:{596AA857-D2B2-41C5-B39E-A0C4CAC8C5A5}|SimulatorGame\\SimulatorGame.csproj|solutionrelative:simulatorgame\\consolemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF1FC3E3-175B-428E-9340-79981FE3D875}|..\\CommonLibs\\GamesSaver\\GamesSaverLibrary\\GamesSaverLibrary.csproj|t:\\visual studio\\vs_projects\\gameemulator\\games\\commonlibs\\gamessaver\\gamessaverlibrary\\gamesaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{596AA857-D2B2-41C5-B39E-A0C4CAC8C5A5}|SimulatorGame\\SimulatorGame.csproj|T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\SimulatorGame\\simulatorgame\\gamerenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{596AA857-D2B2-41C5-B39E-A0C4CAC8C5A5}|SimulatorGame\\SimulatorGame.csproj|solutionrelative:simulatorgame\\gamerenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4F519-BB45-435E-9451-41DF2E0F531E}|Libraries\\DrivingSimulatorLibrary\\DrivingSimulatorLibrary.csproj|t:\\visual studio\\vs_projects\\gameemulator\\games\\simulatorgame\\libraries\\drivingsimulatorlibrary\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F4F519-BB45-435E-9451-41DF2E0F531E}|Libraries\\DrivingSimulatorLibrary\\DrivingSimulatorLibrary.csproj|solutionrelative:libraries\\drivingsimulatorlibrary\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{24F4F519-BB45-435E-9451-41DF2E0F531E}|Libraries\\DrivingSimulatorLibrary\\DrivingSimulatorLibrary.csproj|T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\SimulatorGame\\libraries\\drivingsimulatorlibrary\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -18,28 +23,31 @@
       "RelativeMoniker": "D:0:0:{24F4F519-BB45-435E-9451-41DF2E0F531E}|Libraries\\DrivingSimulatorLibrary\\DrivingSimulatorLibrary.csproj|solutionrelative:libraries\\drivingsimulatorlibrary\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24F4F519-BB45-435E-9451-41DF2E0F531E}|Libraries\\DrivingSimulatorLibrary\\DrivingSimulatorLibrary.csproj|T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\SimulatorGame\\libraries\\drivingsimulatorlibrary\\obstaclemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24F4F519-BB45-435E-9451-41DF2E0F531E}|Libraries\\DrivingSimulatorLibrary\\DrivingSimulatorLibrary.csproj|solutionrelative:libraries\\drivingsimulatorlibrary\\obstaclemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{24F4F519-BB45-435E-9451-41DF2E0F531E}|Libraries\\DrivingSimulatorLibrary\\DrivingSimulatorLibrary.csproj|T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\SimulatorGame\\libraries\\drivingsimulatorlibrary\\obstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24F4F519-BB45-435E-9451-41DF2E0F531E}|Libraries\\DrivingSimulatorLibrary\\DrivingSimulatorLibrary.csproj|solutionrelative:libraries\\drivingsimulatorlibrary\\obstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24F4F519-BB45-435E-9451-41DF2E0F531E}|Libraries\\DrivingSimulatorLibrary\\DrivingSimulatorLibrary.csproj|T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\SimulatorGame\\libraries\\drivingsimulatorlibrary\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24F4F519-BB45-435E-9451-41DF2E0F531E}|Libraries\\DrivingSimulatorLibrary\\DrivingSimulatorLibrary.csproj|solutionrelative:libraries\\drivingsimulatorlibrary\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24F4F519-BB45-435E-9451-41DF2E0F531E}|Libraries\\DrivingSimulatorLibrary\\DrivingSimulatorLibrary.csproj|T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\SimulatorGame\\libraries\\drivingsimulatorlibrary\\obstaclemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F4F519-BB45-435E-9451-41DF2E0F531E}|Libraries\\DrivingSimulatorLibrary\\DrivingSimulatorLibrary.csproj|solutionrelative:libraries\\drivingsimulatorlibrary\\obstaclemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{596AA857-D2B2-41C5-B39E-A0C4CAC8C5A5}|SimulatorGame\\SimulatorGame.csproj|t:\\visual studio\\vs_projects\\gameemulator\\games\\simulatorgame\\simulatorgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{596AA857-D2B2-41C5-B39E-A0C4CAC8C5A5}|SimulatorGame\\SimulatorGame.csproj|solutionrelative:simulatorgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\SimulatorGame\\SimulatorGame\\bin\\Debug\\drivingSimSave.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SimulatorGame\\bin\\Debug\\drivingSimSave.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{596AA857-D2B2-41C5-B39E-A0C4CAC8C5A5}|SimulatorGame\\SimulatorGame.csproj|T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\SimulatorGame\\simulatorgame\\gamerenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{596AA857-D2B2-41C5-B39E-A0C4CAC8C5A5}|SimulatorGame\\SimulatorGame.csproj|solutionrelative:simulatorgame\\gamerenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24F4F519-BB45-435E-9451-41DF2E0F531E}|Libraries\\DrivingSimulatorLibrary\\DrivingSimulatorLibrary.csproj|T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\SimulatorGame\\libraries\\drivingsimulatorlibrary\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{24F4F519-BB45-435E-9451-41DF2E0F531E}|Libraries\\DrivingSimulatorLibrary\\DrivingSimulatorLibrary.csproj|solutionrelative:libraries\\drivingsimulatorlibrary\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{596AA857-D2B2-41C5-B39E-A0C4CAC8C5A5}|SimulatorGame\\SimulatorGame.csproj|T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\SimulatorGame\\simulatorgame\\steeringwheel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{596AA857-D2B2-41C5-B39E-A0C4CAC8C5A5}|SimulatorGame\\SimulatorGame.csproj|solutionrelative:simulatorgame\\steeringwheel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF1FC3E3-175B-428E-9340-79981FE3D875}|..\\CommonLibs\\GamesSaver\\GamesSaverLibrary\\GamesSaverLibrary.csproj|t:\\visual studio\\vs_projects\\gameemulator\\games\\commonlibs\\gamessaver\\gamessaverlibrary\\gamesaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{596AA857-D2B2-41C5-B39E-A0C4CAC8C5A5}|SimulatorGame\\SimulatorGame.csproj|T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\SimulatorGame\\simulatorgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{596AA857-D2B2-41C5-B39E-A0C4CAC8C5A5}|SimulatorGame\\SimulatorGame.csproj|solutionrelative:simulatorgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{596AA857-D2B2-41C5-B39E-A0C4CAC8C5A5}|SimulatorGame\\SimulatorGame.csproj|T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\SimulatorGame\\simulatorgame\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
@@ -60,15 +68,96 @@
       "DocumentGroups": [
         {
           "DockedWidth": 158,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "drivingSimSave.json",
+              "DocumentMoniker": "T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\SimulatorGame\\SimulatorGame\\bin\\Debug\\drivingSimSave.json",
+              "RelativeDocumentMoniker": "SimulatorGame\\bin\\Debug\\drivingSimSave.json",
+              "ToolTip": "T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\SimulatorGame\\SimulatorGame\\bin\\Debug\\drivingSimSave.json",
+              "RelativeToolTip": "SimulatorGame\\bin\\Debug\\drivingSimSave.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-09T21:31:03.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\SimulatorGame\\Libraries\\DrivingSimulatorLibrary\\Car.cs",
+              "RelativeDocumentMoniker": "Libraries\\DrivingSimulatorLibrary\\Car.cs",
+              "ToolTip": "T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\SimulatorGame\\Libraries\\DrivingSimulatorLibrary\\Car.cs",
+              "RelativeToolTip": "Libraries\\DrivingSimulatorLibrary\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T15:21:26.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ObstacleManager.cs",
+              "DocumentMoniker": "T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\SimulatorGame\\Libraries\\DrivingSimulatorLibrary\\ObstacleManager.cs",
+              "RelativeDocumentMoniker": "Libraries\\DrivingSimulatorLibrary\\ObstacleManager.cs",
+              "ToolTip": "T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\SimulatorGame\\Libraries\\DrivingSimulatorLibrary\\ObstacleManager.cs",
+              "RelativeToolTip": "Libraries\\DrivingSimulatorLibrary\\ObstacleManager.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T15:58:00.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Game.cs",
+              "DocumentMoniker": "T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\SimulatorGame\\Libraries\\DrivingSimulatorLibrary\\Game.cs",
+              "RelativeDocumentMoniker": "Libraries\\DrivingSimulatorLibrary\\Game.cs",
+              "ToolTip": "T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\SimulatorGame\\Libraries\\DrivingSimulatorLibrary\\Game.cs",
+              "RelativeToolTip": "Libraries\\DrivingSimulatorLibrary\\Game.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA2wCkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T19:04:43.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleMenu.cs",
+              "DocumentMoniker": "T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\SimulatorGame\\SimulatorGame\\ConsoleMenu.cs",
+              "RelativeDocumentMoniker": "SimulatorGame\\ConsoleMenu.cs",
+              "ToolTip": "T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\SimulatorGame\\SimulatorGame\\ConsoleMenu.cs",
+              "RelativeToolTip": "SimulatorGame\\ConsoleMenu.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAIwC0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T17:34:29.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "packages.config",
+              "DocumentMoniker": "T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\SimulatorGame\\Libraries\\DrivingSimulatorLibrary\\packages.config",
+              "RelativeDocumentMoniker": "Libraries\\DrivingSimulatorLibrary\\packages.config",
+              "ToolTip": "T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\SimulatorGame\\Libraries\\DrivingSimulatorLibrary\\packages.config",
+              "RelativeToolTip": "Libraries\\DrivingSimulatorLibrary\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-08T13:18:29.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\SimulatorGame\\SimulatorGame\\Program.cs",
               "RelativeDocumentMoniker": "SimulatorGame\\Program.cs",
@@ -76,12 +165,11 @@
               "RelativeToolTip": "SimulatorGame\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T14:18:48.953Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T14:18:48.953Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "ClassDiagram1.cd",
               "DocumentMoniker": "T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\SimulatorGame\\SimulatorGame\\ClassDiagram1.cd",
               "RelativeDocumentMoniker": "SimulatorGame\\ClassDiagram1.cd",
@@ -92,20 +180,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "GameState.cs",
               "DocumentMoniker": "T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\SimulatorGame\\Libraries\\DrivingSimulatorLibrary\\GameState.cs",
               "RelativeDocumentMoniker": "Libraries\\DrivingSimulatorLibrary\\GameState.cs",
               "ToolTip": "T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\SimulatorGame\\Libraries\\DrivingSimulatorLibrary\\GameState.cs",
               "RelativeToolTip": "Libraries\\DrivingSimulatorLibrary\\GameState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T21:55:09.324Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "packages.config",
               "DocumentMoniker": "T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\SimulatorGame\\SimulatorGame\\packages.config",
               "RelativeDocumentMoniker": "SimulatorGame\\packages.config",
@@ -123,46 +211,21 @@
               "RelativeDocumentMoniker": "SimulatorGame\\SteeringWheel.cs",
               "ToolTip": "T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\SimulatorGame\\SimulatorGame\\SteeringWheel.cs",
               "RelativeToolTip": "SimulatorGame\\SteeringWheel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-23T12:26:57.558Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Game.cs",
-              "DocumentMoniker": "T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\SimulatorGame\\Libraries\\DrivingSimulatorLibrary\\Game.cs",
-              "RelativeDocumentMoniker": "Libraries\\DrivingSimulatorLibrary\\Game.cs",
-              "ToolTip": "T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\SimulatorGame\\Libraries\\DrivingSimulatorLibrary\\Game.cs",
-              "RelativeToolTip": "Libraries\\DrivingSimulatorLibrary\\Game.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAgwBoAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T21:52:27.361Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "GameRenderer.cs",
               "DocumentMoniker": "T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\SimulatorGame\\SimulatorGame\\GameRenderer.cs",
               "RelativeDocumentMoniker": "SimulatorGame\\GameRenderer.cs",
               "ToolTip": "T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\SimulatorGame\\SimulatorGame\\GameRenderer.cs",
               "RelativeToolTip": "SimulatorGame\\GameRenderer.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAIwC8AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwAoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T21:50:00.607Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Car.cs",
-              "DocumentMoniker": "T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\SimulatorGame\\Libraries\\DrivingSimulatorLibrary\\Car.cs",
-              "RelativeDocumentMoniker": "Libraries\\DrivingSimulatorLibrary\\Car.cs",
-              "ToolTip": "T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\SimulatorGame\\Libraries\\DrivingSimulatorLibrary\\Car.cs",
-              "RelativeToolTip": "Libraries\\DrivingSimulatorLibrary\\Car.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T15:21:26.83Z",
+              "WhenOpened": "2025-02-21T21:50:00.607Z",
               "EditorCaption": ""
             },
             {
@@ -173,40 +236,14 @@
               "RelativeDocumentMoniker": "Libraries\\DrivingSimulatorLibrary\\Obstacle.cs",
               "ToolTip": "T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\SimulatorGame\\Libraries\\DrivingSimulatorLibrary\\Obstacle.cs",
               "RelativeToolTip": "Libraries\\DrivingSimulatorLibrary\\Obstacle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T15:31:51.157Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ObstacleManager.cs",
-              "DocumentMoniker": "T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\SimulatorGame\\Libraries\\DrivingSimulatorLibrary\\ObstacleManager.cs",
-              "RelativeDocumentMoniker": "Libraries\\DrivingSimulatorLibrary\\ObstacleManager.cs",
-              "ToolTip": "T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\SimulatorGame\\Libraries\\DrivingSimulatorLibrary\\ObstacleManager.cs",
-              "RelativeToolTip": "Libraries\\DrivingSimulatorLibrary\\ObstacleManager.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAwwCYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T15:58:00.756Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ConsoleMenu.cs",
-              "DocumentMoniker": "T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\SimulatorGame\\SimulatorGame\\ConsoleMenu.cs",
-              "RelativeDocumentMoniker": "SimulatorGame\\ConsoleMenu.cs",
-              "ToolTip": "T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\SimulatorGame\\SimulatorGame\\ConsoleMenu.cs",
-              "RelativeToolTip": "SimulatorGame\\ConsoleMenu.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAIwF0AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T17:34:29.139Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "app.config",
               "DocumentMoniker": "T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\CommonLibs\\GamesSaver\\GamesSaverLibrary\\app.config",
               "RelativeDocumentMoniker": "..\\CommonLibs\\GamesSaver\\GamesSaverLibrary\\app.config",
@@ -218,7 +255,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "GameSaver.cs",
               "DocumentMoniker": "T:\\Visual Studio\\VS_projects\\GameEmulator\\Games\\CommonLibs\\GamesSaver\\GamesSaverLibrary\\GameSaver.cs",
               "RelativeDocumentMoniker": "..\\CommonLibs\\GamesSaver\\GamesSaverLibrary\\GameSaver.cs",
@@ -226,12 +263,7 @@
               "RelativeToolTip": "..\\CommonLibs\\GamesSaver\\GamesSaverLibrary\\GameSaver.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAwwBwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T21:46:41.125Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+              "WhenOpened": "2025-02-21T21:46:41.125Z"
             }
           ]
         }
